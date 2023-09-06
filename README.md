@@ -53,6 +53,15 @@ En resumen, como desarrollador junior soy una persona apasionada, enérgica y en
    <img width=390 src="https://github-readme-stats-Miller38.vercel.app/api?username=Miller38&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Miller38&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Miller38&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Miller38&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Miller38&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
