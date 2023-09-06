@@ -35,7 +35,7 @@ In short, as a junior developer I am a passionate, energetic and enthusiastic pe
 
 <hr/>
 
-<h2 align="center"> 🛠 Lenguajes and Framewords ⚙ </h2>
+<h2 align="center"> 🛠 Languages and Framewords ⚙ </h2>
 <br/>
 <div align="center">
 <a href="https://skillicons.dev">
