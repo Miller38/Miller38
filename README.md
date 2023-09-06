@@ -7,7 +7,7 @@
 <div  align="center">
    <h4 > About me:</h4>
    <br/>
-   <p>Como desarrollador junior, soy curioso y estoy dispuesto a aprender y crecer constantemente. Tengo una mentalidad abierta y estoy ansioso por enfrentar nuevos desafíos y oportunidades que me permitan expandir mis habilidades técnicas y conocimientos.
+   <p>𝑺𝒕𝒚𝒍𝒊𝒔𝒉 𝑻𝒆𝒙𝒕 Como desarrollador junior, soy curioso y estoy dispuesto a aprender y crecer constantemente. Tengo una mentalidad abierta y estoy ansioso por enfrentar nuevos desafíos y oportunidades que me permitan expandir mis habilidades técnicas y conocimientos.
 
 Soy un solucionador de problemas creativo y meticuloso, encuentro satisfacción en desarrollar soluciones eficientes y efectivas.
 
@@ -51,8 +51,6 @@ En resumen, como desarrollador junior soy una persona apasionada, enérgica y en
 <div align="center">
    <img width=390 src="https://streak-stats.demolab.com/?user=Miller38&count_private=true&theme=react&border_radius=10" alt="streak stats" />
    <img width=390 src="https://github-readme-stats-Miller38.vercel.app/api?username=Miller38&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-
-   [![GitHub Streak](https://streak-stats.demolab.com/?user=Miller38)](https://git.io/streak-stats)
 </div>
 
 
