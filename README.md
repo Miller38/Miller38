@@ -5,9 +5,9 @@
 </h1>
 
 <div  align="center">
-   <h4 > About me:</h4>
+   <h2> About me:</h2>
    <br/>
-   <p>𝑺𝒕𝒚𝒍𝒊𝒔𝒉 𝑻𝒆𝒙𝒕 Como desarrollador junior, soy curioso y estoy dispuesto a aprender y crecer constantemente. Tengo una mentalidad abierta y estoy ansioso por enfrentar nuevos desafíos y oportunidades que me permitan expandir mis habilidades técnicas y conocimientos.
+   <p>Como desarrollador junior, soy curioso y estoy dispuesto a aprender y crecer constantemente. Tengo una mentalidad abierta y estoy ansioso por enfrentar nuevos desafíos y oportunidades que me permitan expandir mis habilidades técnicas y conocimientos.
 
 Soy un solucionador de problemas creativo y meticuloso, encuentro satisfacción en desarrollar soluciones eficientes y efectivas.
 
@@ -41,7 +41,7 @@ En resumen, como desarrollador junior soy una persona apasionada, enérgica y en
 <div align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=vscode,py,powershell,postman,mysql,mongodb,java" /> <br/>
-<img src="https://skillicons.dev/icons?i=github,git,dotnet,css,angular,js,html" />
+<img src="https://skillicons.dev/icons?i=github,git,dotnet,css,angular,js,html,bootstrap" />
 </a>   
 </div>
 
