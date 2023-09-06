@@ -5,7 +5,7 @@
 </h1>
 
 <div  align="center">
-   <h3> About me</h3>
+   <h4 > About me:</h4>
    <br/>
    <p>Como desarrollador junior, soy curioso y estoy dispuesto a aprender y crecer constantemente. Tengo una mentalidad abierta y estoy ansioso por enfrentar nuevos desafíos y oportunidades que me permitan expandir mis habilidades técnicas y conocimientos.
 
@@ -46,12 +46,9 @@ En resumen, como desarrollador junior soy una persona apasionada, enérgica y en
 </div>
 
 <br/>
-<hr/>
-
+<h2 align="center"> ⚡ Stats ⚡</h2>
+<br/>
 <div align="center">
-   <h2> 🐍 My Contributions 🐍</h2>
-   <br>
-   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Miller38/Miller38/output/github-contribution-grid-snake.svg" />
-   <br/><br/><br/>
+   <img width=390 src="https://streak-stats/?user=Miller38&count_private=true&theme=react&border_radius=10" alt="streak stats" />
 </div>
-   
+
