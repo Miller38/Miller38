@@ -49,7 +49,8 @@ En resumen, como desarrollador junior soy una persona apasionada, enérgica y en
 <h2 align="center"> ⚡ Stats ⚡</h2>
 <br/>
 <div align="center">
-   <img width=390 src="https://streak-stats.demolab.com/?user=Miller38&count_private=true&theme=react&border_radius=10" alt="streak stats" />
+   <img width=390 src="https://streak-stats.demolab.com/?user=Miller38&count_private=true&theme=react&border_radius=10" alt="streak stats" /> 
+   <br/><br/>
    <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miller38&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
    </div>
 
