@@ -25,8 +25,16 @@
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=vscode,py,powershell,postman,mysql,mongodb,java" /> <br/>
 <img src="https://skillicons.dev/icons?i=github,git,dotnet,css,angular,js,html" />
-   
-</a>
-   
+</a>   
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+   <h2> 🐍 My Contributions 🐍</h2>
+   <br>
+   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Miller38/Miller38/output/github-contribution-grid-snake.svg" />
+   <br/><br/><br/>
 </div>
    
