@@ -7,16 +7,15 @@
 <div  align="center">
    <h2> About me:</h2>
    <br/>
-   <p>Como desarrollador junior, soy curioso y estoy dispuesto a aprender y crecer constantemente. Tengo una mentalidad abierta y estoy ansioso por enfrentar nuevos desafíos y oportunidades que me permitan expandir mis habilidades técnicas y conocimientos.
+   <p>As a junior developer, I am curious and willing to constantly learn and grow. I have an open mind and am eager to face new challenges and opportunities that allow me to expand my technical skills and knowledge.
 
-Soy un solucionador de problemas creativo y meticuloso, encuentro satisfacción en desarrollar soluciones eficientes y efectivas.
+I am a creative and meticulous problem solver, I find satisfaction in developing efficient and effective solutions.
 
-Aunque no tengo experiencia laboral formal, he participado en proyectos personales, colaborativos o en proyectos escolares, lo que me ha permitido desarrollar habilidades prácticas y comprender los procesos de desarrollo de software.
+Although I have no formal work experience, I have been involved in personal, collaborative or school projects, which has allowed me to develop practical skills and understand software development processes.
 
-Tengo una excelente capacidad de comunicación y me siento cómodo trabajando en equipo. Aprecio el valor de la colaboración y estoy dispuesto a compartir ideas y conocimientos con mis colegas. Además, tengo una mentalidad de aprendizaje rápido y estoy abierto a recibir retroalimentación constructiva para mejorar constantemente mis habilidades.
+I have excellent communication skills and I feel comfortable working in a team. I appreciate the value of collaboration and am willing to share ideas and knowledge with my colleagues. Also, I have a quick learner mindset and am open to receiving constructive feedback to constantly improve my skills.
 
-En resumen, como desarrollador junior soy una persona apasionada, enérgica y entusiasta que está dispuesta a aprender y crecer en el campo del desarrollo de software. Estoy preparado para enfrentar nuevos desafíos y ansío aplicar mis habilidades y conocimientos teóricos en situaciones prácticas para desarrollar soluciones innovadoras.
-
+In short, as a junior developer I am a passionate, energetic and enthusiastic person who is willing to learn and grow in the field of software development. I am ready to face new challenges and look forward to applying my skills and theoretical knowledge in practical situations to develop innovative solutions.
  </p>
    
 </div>
