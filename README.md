@@ -28,7 +28,7 @@ In short, as a junior developer I am a passionate, energetic and enthusiastic pe
 <a href="https://www.linkedin.com/in/miller38/" target="_blank" >
 <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" target="_blank" />
 </a>
-<a href="https://github.com/Miller38" target="_blank">
+<a href="https://portafolio-jmgo.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=todolist&logoColor=white" target="_blank" />
 </a>
 </div>
