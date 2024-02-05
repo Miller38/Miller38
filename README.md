@@ -40,7 +40,7 @@ In short, as a junior developer I am a passionate, energetic and enthusiastic pe
 <div align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=vscode,py,powershell,postman,mysql,mongodb,java" /> <br/>
-<img src="https://skillicons.dev/icons?i=github,git,dotnet,css,angular,js,html,bootstrap" />
+<img src="https://skillicons.dev/icons?i=github,git,dotnet,css,angular,js,html,bootstrap,figma" />
 </a>   
 </div>
 
